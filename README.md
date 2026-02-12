@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0a0a0a&height=150&section=header&text=PLUME&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=55" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Game+Hacker;Reverse+Engineer;Automation+Architect;Breaking+Games+Since+Forever" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0a2e,50:6a2c70,100:a855f7&height=150&section=header&text=PLUME&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=55" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Plume-Paopedia&color=green&style=flat-square&label=访问)
-[![GitHub](https://img.shields.io/badge/GitHub-Plume--Paopedia-181717?style=flat-square&logo=github)](https://github.com/Plume-Paopedia)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Game+Hacker;Reverse+Engineer;Automation+Architect;Breaking+Games+Since+Forever)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Plume-Paopedia&color=blueviolet&style=flat-square&label=VISITORS)
+[![GitHub](https://img.shields.io/badge/GitHub-Plume--Paopedia-181717?style=flat-square&logo=github&logoColor=a855f7)](https://github.com/Plume-Paopedia)
 
 </div>
 
@@ -156,16 +156,16 @@ class GameHacker:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plume-Paopedia&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plume-Paopedia&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plume-Paopedia&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plume-Paopedia&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Plume-Paopedia&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Plume-Paopedia&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Plume-Paopedia&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=c9d1d9&area=true&area_color=00ff00" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Plume-Paopedia&theme=high-contrast&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f7" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -187,7 +187,7 @@ When not hacking games, I explore philosophy through poetry—currently working 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6a2c70,100:a855f7&height=120&section=footer&animation=twinkling"/>
 
 **Made with caffeine and curiosity**
 
